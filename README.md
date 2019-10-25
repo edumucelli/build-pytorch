@@ -1,6 +1,6 @@
 # Build PyTorch from source
 
-(You may want to see the already built [releases](https://github.com/edumucelli/build-torch/releases) before building yourself)
+(You may want to see the already built [releases](https://github.com/edumucelli/build-pytorch/releases) before building yourself)
 
 This project aims to build PyTorch from the source using a Dockerfile.
 The idea is to simplify the build so that one can choose the the Cuda/CuDNN
